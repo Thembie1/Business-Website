@@ -4,7 +4,14 @@ body {
   font-family: Arial, sans-serif;
   background-color: rgb(153, 241, 241);
 }
-
+.Thembi{
+   font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background-image:url(gym m.jpg );
+        background-repeat: no-repeat;
+        background-size: cover;
+}
 header {
   background-color: #f50baf;
   padding: 10px;
